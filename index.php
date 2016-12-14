@@ -1,4 +1,4 @@
 <?
-$text = "Hello world";
+$text = "Hello world 2";
 echo $text;
 ?>
